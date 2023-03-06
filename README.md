@@ -10,4 +10,3 @@ The dataset is then read.
 A train test split is performed.
 For the model buliding, a Random Forest model will be used.
 The feature importance is to create a function and find important features and to plot the features. 
-Define a function for implementing the LIME technique over the dataset.
